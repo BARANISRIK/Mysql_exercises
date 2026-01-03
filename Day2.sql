@@ -1,3 +1,4 @@
+drop database if exists project_details;
 create database project_details;
 use project_details;
 create table employee(
